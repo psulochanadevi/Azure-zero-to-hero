@@ -67,3 +67,15 @@ Azure VPN Gateway provides secure, site-to-site connectivity between your on-pre
 - **High Availability**: Supports active-active and active-passive configurations for high availability.
 
 - **BGP Support**: Allows dynamic routing between your on-premises network and Azure.
+
+## example
+
+Best Azure Networking explanation," explains Azure networking concepts by comparing them to a secure housing society.
+
+• Private Land: Analogous to an Azure Virtual Network (VNet).
+• Blocks: Analogous to subnets.
+• Houses: Comparable to instances or resources deployed within a subnet.
+• Compound Walls & Gate: Equivalent to an Azure Firewall.
+• Block-level Guards: Like Network Security Groups (NSGs).
+• Paths & Signboards: Like route tables and system routes.
+• Google Maps & Coordinates: Similar to a Domain Name System (DNS).
